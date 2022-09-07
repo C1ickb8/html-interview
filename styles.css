@@ -1,0 +1,30 @@
+h1, h3 {
+  text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    text-align: center;
+    font-style:italic;
+    margin: 10px;
+    
+}
+div {
+    padding: 25px;
+    border: 3px solid blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(214, 178, 16);
+    opacity: .8 ;
+    
+}
+img {
+    border-radius: 50px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+body {
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pX32shC0sO6Fz5v5TGgC1AHaJQ%26pid%3DApi&f=1);
+}
