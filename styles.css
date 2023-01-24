@@ -1,0 +1,38 @@
+h1, h3 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+li {
+    text-align: center;
+    font-style:italic;
+    margin: 10px;
+    font-weight: bolder;
+    
+}
+div {
+    padding: 25px;
+    border: 3px solid rgb(14, 14, 17);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(81, 94, 81);
+    opacity: .8 ;
+    
+}
+img {
+    border-radius: 50px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+body {
+    text-align: ;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FyYSSBtDgbbRzq%2Fgiphy.gif&f=1&nofb=1&ipt=8d65af438bfd027943c0d3c2cab97e7aaccd622ae531cebed529742aca766713&ipo=images);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    
